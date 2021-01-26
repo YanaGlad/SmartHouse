@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SmartHouse</string>
+    <string name="back">Back</string>
+    <string name="light_control">Контроль света</string>
+    <string name="water_control">Контроль воды</string>
+    <string name="other_control">Прочее</string>
+
+    <string name="price">Счет</string>
+    <string name="light">Свет</string>
+    <string name="in_bed_room">в спальне</string>
+    <string name="in_living_room">в зале</string>
+    <string name="in_the_kitchen">на кухне</string>
+    <string name="in_bathroom">в ванной</string>
+    <string name="water">Вода</string>
+    <string name="using_lamp">Использование лампы</string>
+    <string name="using_water">Использование воды</string>
+    <string name="price_full">Счет за коммунальные услуги</string>
+    <string name="rub">рублей</string>
+    <string name="for_water">за воду</string>
+    <string name="for_light">за свет</string>
+    <string name="more_info">Подробно</string>
+    <string name="start">Начать</string>
+    <string name="curtains_bedroom">Жалюзи в спальне</string>
+    <string name="temperature">Средняя температура: </string>
+    <string name="condition">Кондиционер </string>
+
+
+</resources>
